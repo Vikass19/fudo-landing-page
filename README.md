@@ -52,7 +52,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 📸 Preview
 
-![Food Landing Page Preview](./assets/images/fudolandingpage.jpg)
+![Food Landing Page Preview](./assets/images/fudo.jpg)
 
 
 ## 🙌 Author
