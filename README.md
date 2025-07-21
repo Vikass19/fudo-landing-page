@@ -50,7 +50,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## 📸 Preview
 
-![food landing page preview](./assets/images/fudo landing page.jpg)
+## 📸 Preview
+
+![Food Landing Page Preview](./assets/images/fudolandingpage.jpg)
+
 
 ## 🙌 Author
 
